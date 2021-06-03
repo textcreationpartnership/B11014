@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The holinesse of Chrisian [sic] churches, or A sermon preached at the consecration of the chappell of Sr. Iohn Baker of Sussing-herst in Cranbrooke in Kent, Baronet: upon I Cor. II. 22. By Robert Abbot, vicar of the same parish.</title>
+            <author>Abbot, Robert, 1588?-1662?</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11014</idno><idno type="EEBO-CITATION">99848247</idno>
+  <idno type="VID">176928</idno>
+  <idno type="EEBO-PROQUEST">2240892291</idno>
+  <idno type="STC">STC 59.5</idno>
+  <idno type="STC">ESTC S113006</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848247e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176928)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 719:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The holinesse of Chrisian [sic] churches, or A sermon preached at the consecration of the chappell of Sr. Iohn Baker of Sussing-herst in Cranbrooke in Kent, Baronet: upon I Cor. II. 22. By Robert Abbot, vicar of the same parish.</title>
+                  <author>Abbot, Robert, 1588?-1662?</author>
+               </titleStmt>
+               <extent>[8], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Paine, for P. Stephens, and C. Meredith, and are to be sold at their shop, at the signe of the Golden Lyon in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The collation is such because it fills a gap in STC 58, for which this was apparently the fifth sermon.</note>
+                  <note>Signatures: F-G12.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church buildings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176928:1"/>
+            <p>THE HOLINESSE OF CHRISIAN CHVRCHES, <hi>OR</hi> A Sermon preached at the consecration of the Chappell of Sr. <hi>Iohn Baker,</hi> of <hi>Sussing-Herst</hi> in <hi>Cranbrooke</hi> in <hi>Kent,</hi> Baronet: upon 1 <hi>Cor.</hi> 11.22.</p>
+            <p>By ROBERT ABBOT, vicar of the same Parish.</p>
+            <p>
+               <hi>Ecclesia homines sunt, de quibus di<g ref="char:EOLhyphen"/>citur; ut exhiberet sibi gloriosam ec<g ref="char:EOLhyphen"/>clesiam. Hanc tamen vocarripsam Do<g ref="char:EOLhyphen"/>mum Ora<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ionum, Idem Aposto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us te<g ref="char:EOLhyphen"/>stis est, ubi ait; Nunquid domos non habetis ad manducandum &amp; bibendū? An Ecclesiam Dei contemnitis: Au<g ref="char:EOLhyphen"/>gustinus. Quaest. sup. Levit.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Paine,</hi> for <hi>P. Stephens,</hi> and <hi>C. Meredith,</hi> and are to be sold at their Shop, at the signe of the <hi>Golden Lyon</hi> in <hi>Pauls</hi> Church-yard. 1638.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:176928:2"/>
+            <p>Perlegi hanc Concionem, di<g ref="char:EOLhyphen"/>gnámque judico quae typis mandetur.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Octob.</hi> 5. 1638.</date>
+               </dateline>
+               <signed>Tho: Wykes R. P. Episc. Lond. Sacell. domest.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176928:2"/>
+            <head>TO HIS HONORA<g ref="char:EOLhyphen"/>BLE FRIEND, THE RIGHT WORSHIPFVLL Sir IOHN BAKER Ba<g ref="char:EOLhyphen"/>ronet, Grace, Mer<g ref="char:EOLhyphen"/>cy, and Peace.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir, this Ser<g ref="char:EOLhyphen"/>mon is yours by occasion, and request: and though, in respect of it selfe, it deserves not to appeare in publick; yet <hi>for your sake,</hi> whose name it must beare, I desire it might continue to po<g ref="char:EOLhyphen"/>steritie.</p>
+            <p>Too few <hi>yong and noble</hi>
+               <pb facs="tcp:176928:3"/>gentlemen, shew a pious care, and conscience to religion. The <hi>lusts of the eyes, the lusts of the flesh, and the pride of life,</hi> consume their dayes with vanity and wick<g ref="char:EOLhyphen"/>ednesse. But God of his mer<g ref="char:EOLhyphen"/>cy, <hi>hath seasoned</hi> you with a better spirit, and <hi>so stated</hi> you in good, that I am confi<g ref="char:EOLhyphen"/>dent, neither I, nor others shall ever see you altered. I rejoyce, and <hi>it is my crowne,</hi> to see some deepe stamped <hi>Cha<g ref="char:EOLhyphen"/>racters</hi> in you. I have known you from your infancy, and (from your constant love) have beene no stranger from your house: yet did I never heare you <hi>(blessed be God)</hi> either in passion, or out, to <hi>sweare the least oath,</hi> no nor so much <hi>as once</hi> to use the
+<pb facs="tcp:176928:3"/>strong and too much tossed Asseverations of <hi>Faith,</hi> and <hi>Troth;</hi> you are constant, <hi>day by day,</hi> at your private devo<g ref="char:EOLhyphen"/>tions, to <hi>blesse</hi> all your occa<g ref="char:EOLhyphen"/>sions, to <hi>prepare</hi> you <hi>for God</hi> whensoever hee shall call, and in the meane time to keepe your sweete acquain<g ref="char:EOLhyphen"/>tance with heaven. You are so resolved an observer of <hi>Gods solemne worship on the Lords day,</hi> in comming with the first (as you can) and going with the last <hi>(like a doore keeper in the house of your God,)</hi> that, <hi>by your good will,</hi> you would not, <hi>on any season,</hi> loose any part of publike prayer, preaching, catechizing, or Sacraments, <hi>so oft</hi> as they are tendred, e<g ref="char:EOLhyphen"/>ven <hi>to the last blessing.</hi> And
+<pb facs="tcp:176928:4"/>now, <hi>Sir,</hi> because of the di<g ref="char:EOLhyphen"/>stance betwixt your house and your Church, and because you would avoid not onely the guilt, but the suspicion of <hi>Clandestine</hi> and unwarrant<g ref="char:EOLhyphen"/>able courses, you have obtai<g ref="char:EOLhyphen"/>ned by <hi>Royall</hi> and <hi>Ecclesia<g ref="char:EOLhyphen"/>sticall</hi> order a consecrated Chappell in your owne house; In which you have, not onely <hi>daily prayers</hi> according to the lawes of our blessed Church; but also you doe <hi>sup<g ref="char:EOLhyphen"/>ply the defects</hi> of publike worship, which long waies, and foule weather doe bring upon you, and your blessed family in you.</p>
+            <p>How happy is it, <hi>Sir,</hi> for you, and yours, that you had such <hi>Religious Parents</hi> to learne you to beare the sweete
+<pb facs="tcp:176928:4"/>yoake of <hi>Christ</hi> from your youth! How happie that <hi>God</hi> hath graciously sanctified their care, and your submissi<g ref="char:EOLhyphen"/>on and observance so, as that you goe on <hi>to sow your good seede in this your morning, and doe not yet let your hand rest,</hi> when your yeares speake a full, and ripe young man! Lastly, how happy that God hath given you a <hi>religi<g ref="char:EOLhyphen"/>ous Lady,</hi> whom you dearely love, and who closeth with you in Love, Mercy, and the devout acts of worship both in publick and private! Long may you live together in con<g ref="char:EOLhyphen"/>jugal love, and pious affecti<g ref="char:EOLhyphen"/>ons, to <hi>God, goodnesse,</hi> and <hi>good people!</hi> And as you have begunne, and hitherto continued, to be <hi>good exam<g ref="char:EOLhyphen"/>ples</hi>
+               <pb facs="tcp:176928:5"/>to all my flocke in good workes, and frequenting the house of your God: so that you may still live, and die in such indeavours, resolutions, and practises, shall be the ear<g ref="char:EOLhyphen"/>nest prayers of</p>
+            <closer>
+               <signed>Your Worships in all Christian observance ROBERT ABBOT.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:176928:5"/>
+            <head>THE HOLINESSE OF CHRISTIAN CHVRCHES, <hi>OR</hi> A Sermon preached upon 1 <hi>Cor.</hi> 11.22.</head>
+            <epigraph>
+               <q>
+                  <hi>Despise ye the Church of God?</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>F divers questi<g ref="char:EOLhyphen"/>ons asked in the Scripture, this is a convincing, &amp; denying que<g ref="char:EOLhyphen"/>stion: smiting their hearts for <hi>despising the Church,</hi> and denying that it ought to bee so. It lookes fully upon the businesse in hand; and that
+<pb n="2" facs="tcp:176928:6"/>upon this text. For heere is a <hi>Church</hi> certainely, the <hi>Church of God,</hi> &amp; the Church that must <hi>not be despised.</hi> Thus farre I am in a right way to speake something to you to the purpose: our good God grant both a beginning, and a good issue!</p>
+            <p>It is true, <note place="margin">Sacrum, Sacellum.</note> the present act is about a Chappell, not a Church: but that is but a di<g ref="char:EOLhyphen"/>minutive of this, <note place="margin">Rom. 16.5.</note> a daughter of the mother, for <hi>the Church that is in thine house.</hi>
+            </p>
+            <p>All the question will bee double: <note place="margin">What meant by the church of God.</note>
+               <hi>what is meant by the Church of God?</hi> and <hi>what is meant by the despising of them?</hi> Though this word <hi>Church</hi> be diversly taken, (which hath occasioned a various interpre<g ref="char:EOLhyphen"/>tation) yet certainely heere, <note place="margin">
+                  <hi>Vide Ful<g ref="char:EOLhyphen"/>leri Mi<g ref="char:EOLhyphen"/>scellanea. Ios. Mede,</hi> of Chur<g ref="char:EOLhyphen"/>ches.</note> God would have us under<g ref="char:EOLhyphen"/>stand <hi>the place where Gods peo<g ref="char:EOLhyphen"/>ple meete for his publick worship.</hi>
+            </p>
+            <pb n="3" facs="tcp:176928:6"/>
+            <p>If yee say, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> that in the Apo<g ref="char:EOLhyphen"/>stles daies there were no such churches as wee have. <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> I an<g ref="char:EOLhyphen"/>swer, that if by churches you understand large and stately buildings, such as heathens had then, and Christians have now; I yeeld there were not. They were in ambulatory troubles, and had not wealth so flowing for the body, that they could spare so much for the soule. But if you under<g ref="char:EOLhyphen"/>stand <hi>a cōmodious &amp; fit place, se<g ref="char:EOLhyphen"/>parate from common to holy use,</hi> then surely they had them, such there were. For other<g ref="char:EOLhyphen"/>wise they had wilfully negle<g ref="char:EOLhyphen"/>cted that golden rule, <hi>that all things bee done decently and in order,</hi>
+               <note place="margin">1 Cor. 14.40.</note> for the avoiding of the snares of Heretickes and Schismatickes in private con<g ref="char:EOLhyphen"/>venticles.</p>
+            <p>And that this mentioned heere, was such, doth appeare
+<pb n="4" facs="tcp:176928:7"/>in the text at three turnes. <hi>First,</hi>
+               <note place="margin">1 Cor. 11. ver. 18. They were a Church. 1 Cor. 1. before they came together now. ver. 20.</note>
+               <hi>Paul</hi> saith, <hi>when yee come together in the Church.</hi> Here are three considerables, the people <hi>(yee):</hi> their act <hi>(coming together):</hi> and the place where <hi>(the Church). Secondly,</hi> what he called a church, hee calls <hi>a place; when yee come together into one place;</hi> not as one peo<g ref="char:EOLhyphen"/>ple. <hi>Thirdly,</hi> that which hee called a church, and a place, hee doth oppose to their own houses, <hi>have yee not houses to eate in at home?</hi>
+               <note place="margin">ver. 22.</note>
+               <hi>despise yee the church of God?</hi> where hee taxeth a double fault. <hi>First,</hi> that in eating and drinking they kept not to the use of their owne houses: and <hi>se<g ref="char:EOLhyphen"/>condly,</hi> that they basely abused <hi>the church of God</hi> after their owne lusts, <note place="margin">What meant by despising them.</note> and how was that?</p>
+            <p>Consider next, what is meant by despising them: They
+<pb n="5" facs="tcp:176928:7"/>used them <hi>like common houses</hi> for works of nature and com<g ref="char:EOLhyphen"/>plement: <hi>like profane houses</hi> for sinne, and Epicurisme: and they used them not <hi>reve<g ref="char:EOLhyphen"/>rently,</hi> according to the uses whereto they were designed: So they despised them.</p>
+            <p>You see now, <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">The divisi<g ref="char:EOLhyphen"/>on of the text.</note> that wee have here, <hi>A place,</hi> the church of God; and <hi>an use,</hi> not to despise, but to honour it. And thus it comes fully to the worke in hand, setting this holy truth upon our consci<g ref="char:EOLhyphen"/>ences, <milestone type="tcpmilestone" unit="unspecified" n="2"/> that <hi>when places are consecrated,</hi>
+               <note place="margin">The main bent of the text.</note>
+               <hi>and set a part to Gods services, they must not bee despised by ordinary and sinfull uses, but honoured as churches of God.</hi>
+            </p>
+            <p>Shall I speake what reve<g ref="char:EOLhyphen"/>rence <hi>God</hi> required to the <hi>Ta<g ref="char:EOLhyphen"/>bernacle?</hi> The <hi>Levites</hi> pitch their tents neere it, but the people were not to approach
+<pb n="6" facs="tcp:176928:8"/>but for sacrifice, and other service. <note place="margin">Num. 1.51</note> The <hi>stranger</hi> might not come neere when it was set up by the Levites upon paine of death. <note place="margin">Num. 16. Levit. 10.2</note> The <hi>Priests</hi> were not to meddle with the <hi>high-priests</hi> office: and if they erred, <hi>they were judged.</hi> The <hi>high-priest</hi> was not alwaies to enter into the holy of holies: that must be but once a yeare, or he must dye.</p>
+            <p>
+               <hi>All priests</hi> must bee sure not to enter with unwashen hands, and feet, or they must die. Thus God nourished their reverence to the place of his publicke worship: yet theirs was but a shadow of Christ, wee in our assemblies have a promise of <hi>Christ him<g ref="char:EOLhyphen"/>selfe</hi> (as in a place of presence) made good in the midst of the <hi>seven golden candlestickes.</hi>
+               <note place="margin">Math. 18. <hi>Vt in loco praesen<g ref="char:EOLhyphen"/>tie.</hi> Apoc. 1.2</note>
+            </p>
+            <p>Shall I speake what reve<g ref="char:EOLhyphen"/>rence the <hi>Iewes</hi> had to their
+<pb n="7" facs="tcp:176928:8"/>
+               <hi>sanctuary?</hi>
+               <note place="margin">Wiemse in legem cer.</note> They would not enter with <hi>staffe,</hi> or <hi>shooes,</hi> no nor <hi>spit</hi> but in an handker-chiefe. They made not a <hi>thorough-fare</hi> of it, to shorten their way, but went about. They turned not <hi>their backe upon it,</hi>
+               <note place="margin">Ezek. 8.16</note> but went side-long to keepe themselves from suspi<g ref="char:EOLhyphen"/>cion of idolatrie. They went <hi>not the same way</hi> they came in: <note place="margin">Ezek. 46.</note> none of them <hi>sate</hi> in the outer court, save the <hi>Kings-house.</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> They made not houses like that, <note place="margin">2 Sam. 7.18.</note> and all to nourish reve<g ref="char:EOLhyphen"/>rence to the house of God.</p>
+            <p>Shall I say how the very <hi>Turkes</hi> doe reverence their meeting places? <milestone type="tcpmilestone" unit="unspecified" n="3"/> They pu<g ref="char:EOLhyphen"/>nish with present death any man that <hi>voides excrements</hi> against them. They go not towards them to worship, but on hands and feete following their priest, neither doe they enter them, but with their
+<pb n="8" facs="tcp:176928:9"/>shooes off. They cover the floores of them with tapestry or arras, whereupon they tread, and all to make shew of reverence to the house of their God.</p>
+            <p>Shall I speake how the church of <hi>Rome</hi> doth reve<g ref="char:EOLhyphen"/>rence her churches? <milestone type="tcpmilestone" unit="unspecified" n="4"/> They do enough past question. They speake loftily among them, who ascribe <hi>some divine vertue to the stones and walls of them.</hi>
+               <note place="margin">Aliquam virtutem divinam saxis &amp; parietibus. Vt sint A<g ref="char:EOLhyphen"/>sili loco.</note>
+            </p>
+            <p>They also yeeld priviledges unto them, <hi>as places of refuge and sanctuary for capitall offen<g ref="char:EOLhyphen"/>ces.</hi> But as this was not of the rigour of the law (for <hi>thou shalt take the murtherer from mine altar,</hi>
+               <note place="margin">Ex 21.14 2 Chro. 23.14. 1 King 2.29.30.</note>
+               <hi>that he may dye),</hi> so it makes them dens of theevs, yet this must be granted, that this they doe, to nourish re<g ref="char:EOLhyphen"/>verence to Christian Chur<g ref="char:EOLhyphen"/>ches.</p>
+            <pb n="9" facs="tcp:176928:9"/>
+            <p>Shall I now say, what reve<g ref="char:EOLhyphen"/>rence wee (if wee would be good Christians) must have to churches? <hi>wee must not despise them.</hi> The nicest <hi>Casuist,</hi> that I have seene, saith two things to our purpose. First, <note place="margin">
+                  <hi>Ames. Cas. consc.</hi> 40 <hi>pag.</hi> 182. 1 <hi>In usu sacro.</hi>
+               </note>
+               <hi>in sacred and holy use, instru<g ref="char:EOLhyphen"/>ments set a part to Gods worship must be used with singular reve<g ref="char:EOLhyphen"/>rence: because of the neere re<g ref="char:EOLhyphen"/>lation betwixt the act of worship, and the instrument of it.</hi>
+               <note place="margin">2 <hi>Extra u<g ref="char:EOLhyphen"/>sum sa<g ref="char:EOLhyphen"/>crum.</hi>
+               </note> Se<g ref="char:EOLhyphen"/>condly, <hi>out of sacred and holy use, that, though no positive ho<g ref="char:EOLhyphen"/>nour (by Gods appointment) bee due to such instruments,</hi>
+               <note place="margin">Exinsti<g ref="char:EOLhyphen"/>tuto.</note>
+               <hi>as was to the Temple and Arke: yet there is a privative honour due, whereby we must be carefull so to demeane our selves that wee di<g ref="char:EOLhyphen"/>minish not that honour which is due in holy use:</hi> that so our proper worship by this out<g ref="char:EOLhyphen"/>ward reverence may bee ad<g ref="char:EOLhyphen"/>vanced.</p>
+            <pb n="10" facs="tcp:176928:10"/>
+            <p>But that I may be more di<g ref="char:EOLhyphen"/>stinct, I shall propound three particulars.</p>
+            <list>
+               <item>1 Whether holinesse bee to be attributed to churches?</item>
+               <item>2 How Reverence is to bee shewed to them?</item>
+               <item>3 The grounds of this Reve<g ref="char:EOLhyphen"/>rence.</item>
+            </list>
+            <p>If you aske, <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <note place="margin">Whether holiuesse bee to bee attributed to chur<g ref="char:EOLhyphen"/>ches.</note> whether Holi<g ref="char:EOLhyphen"/>nesse be to bee given to chur<g ref="char:EOLhyphen"/>ches? I answer, there are two kindes of holinesse, an <hi>inhe<g ref="char:EOLhyphen"/>rent</hi> and <hi>actuall</hi> holinesse, and an <hi>appendent</hi> and <hi>Relative</hi> ho<g ref="char:EOLhyphen"/>linesse. <hi>Inherent</hi> holinesse is double. The first is <hi>fundamen<g ref="char:EOLhyphen"/>tall</hi> in Christ, who is <hi>an holy thing,</hi>
+               <note place="margin">Luk. 1.35. Act. 4.30.</note>
+               <hi>Gods holy one Iesus,</hi> out of whom is derived all our <hi>annointing</hi> and saving holi<g ref="char:EOLhyphen"/>nesse. The second is <hi>deriva<g ref="char:EOLhyphen"/>tive,</hi> which springs from Christ to his members, <hi>the holy prophets,</hi>
+               <note place="margin">Luk 1.70. 1 Cor. 3.17.</note>
+               <hi>men of God,</hi> and <hi>saints.</hi> The <hi>Temple of God is holy
+<pb n="11" facs="tcp:176928:10"/>which yee are. Appendent</hi> and <hi>relative holinesse</hi> may bee in things not capable of rea<g ref="char:EOLhyphen"/>son, three waies. <hi>First,</hi>
+               <note place="margin">Ex insti<g ref="char:EOLhyphen"/>tuto et ex<g ref="char:EOLhyphen"/>emplo.</note> from institution, appointment, and from example. So the <hi>Sanctu<g ref="char:EOLhyphen"/>ary</hi> and <hi>Temple</hi> of old, whi<g ref="char:EOLhyphen"/>ther God sent his people <hi>to seeke him,</hi>
+               <note place="margin">Deut. 12.5</note> and to which God tyed his visible presence: and where the <hi>Prophets, priests, Levites, Saints, Christ</hi> and his <hi>Apostles</hi> worshipped in their course. <hi>Secondly,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">
+                  <hi>Ex exem<g ref="char:EOLhyphen"/>plo, sed non ex institu<g ref="char:EOLhyphen"/>to.</hi> Psal. 74.8. <hi>Deo ap<g ref="char:EOLhyphen"/>probante, non praeci<g ref="char:EOLhyphen"/>piente.</hi>
+               </note> from exam<g ref="char:EOLhyphen"/>ple, but not from divine insti<g ref="char:EOLhyphen"/>tution, and appointment. So the <hi>Synagogues</hi> of the <hi>Iewes</hi> were holy, which were ap<g ref="char:EOLhyphen"/>pointed by men to advance holy worship. For though they are called <hi>the Synagogues of God,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> yet it is because God approved them, <note place="margin">Analogicè pervolun<g ref="char:EOLhyphen"/>tariam consecra<g ref="char:EOLhyphen"/>tionem.</note> though hee commanded them not. <hi>Third<g ref="char:EOLhyphen"/>ly,</hi> from proportion, to the former and voluntary conse<g ref="char:EOLhyphen"/>cration,
+<pb n="12" facs="tcp:176928:11"/>whereby the thing it<g ref="char:EOLhyphen"/>selfe is not made more holy materially, and formally, but finally, and <hi>reductively</hi> for use, as when they are set apart and applyed to holy uses. Thus Churches and Chappels with their accessaries are rightly said to be holy; and <hi>it is a snare to the man who devou<g ref="char:EOLhyphen"/>reth that which is</hi> (thus) <hi>holy.</hi>
+               <note place="margin">Pro. 20.25</note>
+            </p>
+            <p>If you next aske, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">How reve<g ref="char:EOLhyphen"/>rence is to be shewed to chur<g ref="char:EOLhyphen"/>ches.</note> how reve<g ref="char:EOLhyphen"/>rence is to bee shewed unto them? I answer, two wayes. First, in respect of the bulke and body of them, wee are to make them some way fit for the worship of such a God as is to bee worshipped there. <hi>Christ</hi> made choise of an up<g ref="char:EOLhyphen"/>per chamber which was large and <hi>trimmed</hi> to eate the passe<g ref="char:EOLhyphen"/>over in, <note place="margin">Mar. 14.15.</note> and they are called <hi>blasphemers,</hi>
+               <note place="margin">Psal. 84.10.</note> who burnt up the <hi>Synagogues.</hi>
+            </p>
+            <pb n="13" facs="tcp:176928:11"/>
+            <p>Secondly, <note place="margin">Psal. 5. <hi>Vbirisus in ecclesia ibi Diabo<g ref="char:EOLhyphen"/>li opus est. Greg.</hi>
+               </note> reverence is their due, in respect of the use of them, <hi>wee must come with feare unto them, where laughing is in the Church, there is the Devils worke,</hi> saith Saint <hi>Gregory:</hi> and B. <hi>Chrysostom</hi> thus expostu<g ref="char:EOLhyphen"/>lates with his auditors, <note place="margin">Sacerdos orationem offerens, tu rides? Nihil ti<g ref="char:EOLhyphen"/>mes, &amp;c. Chrysost.</note>
+               <hi>when the Priest offereth up thy pray<g ref="char:EOLhyphen"/>ers to God, doest thou laugh? doest thou not feare? doest thou not tremble? The church is no market-stall or standing, but the place of Angels, the pallace of the great God.</hi> Therefore as <hi>Iacob was afraid in Bethel;</hi>
+               <note place="margin">Gen. 28. Psal. 5.8.</note> and <hi>David</hi> came <hi>in feare</hi> to wor<g ref="char:EOLhyphen"/>ship: so reverently must we carry our selves: <note place="margin">Psal. 95.5.</note> for <hi>holinesse becomes thy house for ever,</hi> saith every devout soule.</p>
+            <p>As wee must come with feare, so also must wee reve<g ref="char:EOLhyphen"/>rently performe the whole worship of God there. God hath made a promise to his
+<pb n="14" facs="tcp:176928:12"/>people there; and therefore choose to bee an abject in the house of God when thou prayest: bee as low as thou canst; <note place="margin">Pulveri<g ref="char:EOLhyphen"/>zato in pulvere sāctuarij.</note>
+               <hi>dust thy selfe in the dust of the sanctuary,</hi> said the <hi>Iew</hi> of old. When thou hea<g ref="char:EOLhyphen"/>rest, give attention with reve<g ref="char:EOLhyphen"/>rence: damnation came in by the eare, and salvation must come that way too. When thou comest to the ta<g ref="char:EOLhyphen"/>ble of the Lord, receive the seales of the covenant with reverence also; to have God binde himselfe to thee, and to have thy selfe, binde thy selfe to God, <note place="margin">Opus vel ipsis ange<g ref="char:EOLhyphen"/>lis formi<g ref="char:EOLhyphen"/>dandum. Hier.</note> is <hi>a worke to be trem<g ref="char:EOLhyphen"/>bled at even by the Angels themselves.</hi>
+            </p>
+            <p>Againe, wee must not ap<g ref="char:EOLhyphen"/>ply churches or chappels, to any private use. Saint <hi>Paul</hi> blames the <hi>Corinthians</hi> heere for their feasts of love: and Saint <hi>Augustine</hi> saith of those
+<pb n="15" facs="tcp:176928:12"/>kinde of Church-ales, which by abuse crept into them in his time, <note place="margin">August. Epist.</note>
+               <hi>that if they came thi<g ref="char:EOLhyphen"/>ther Christians, they went home Pagans.</hi> And this wee know, that many decrees have beene made against buying, selling, dancing and playing in them. Yea, <note place="margin">Act. 20.9.</note> and when <hi>Eutichus</hi> did but sleep while <hi>Paul</hi> preached, he <hi>fell down,</hi> and it had almost cost his life, though he might have had his excuse, that <hi>Paul</hi> preached too long.</p>
+            <p>Lastly, wee must not apply Churches or Chappels to any sinnefull use. Heathen priests would perswade young vir<g ref="char:EOLhyphen"/>gines, whom they purposed to defloure, <note place="margin">1 Sam. 2.22</note> that <hi>their Gods desi<g ref="char:EOLhyphen"/>red their company:</hi> and yee know what the sonnes of <hi>Ely</hi> did. Such are they that make the church a place of gazing, pride, contention, lust<g ref="char:EOLhyphen"/>full thoughts, or the like. But
+<pb n="16" facs="tcp:176928:13"/>as <hi>Ahasuerus</hi> dealt with <hi>Ha<g ref="char:EOLhyphen"/>man,</hi>
+               <note place="margin">Hest. 7.1.</note>
+               <hi>will he force the queene be<g ref="char:EOLhyphen"/>fore me in the house?</hi> cover his face, away with him, hang him up: so, and worse, will God deal with them, that dare sinne before him in his house. This reverence yee owe to Churches in their bulke, and use,</p>
+            <p>And that yee may be con<g ref="char:EOLhyphen"/>vinced, <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">The grounds of reverence to Chur<g ref="char:EOLhyphen"/>ches. 1 Dedica<g ref="char:EOLhyphen"/>tion.</note> consider thirdly, the grounds of this reverence, which are two. First, our churches and chappels are <hi>de<g ref="char:EOLhyphen"/>dicated</hi> to God, for his holy u<g ref="char:EOLhyphen"/>ses and services: and what is this? when is it done?</p>
+            <p>
+               <hi>It is their setting apart to ho<g ref="char:EOLhyphen"/>ly uses for ever.</hi>
+               <note place="margin">What de<g ref="char:EOLhyphen"/>dication is?</note> The Jewes did it by <hi>holy oyle</hi> appointed by God, as a type of <hi>Christs</hi> gra<g ref="char:EOLhyphen"/>ces: and then no ordinary businesses, though the end was sacrificing, <note place="margin">Ioh. 2.14. Mar. 11.16</note> was to be done in them; nor so much
+<pb n="17" facs="tcp:176928:13"/>as a <hi>burthen</hi> to be carried tho<g ref="char:EOLhyphen"/>rough them. <note place="margin">Bellarm.</note> The church of <hi>Rome</hi> doth it by over-loading ceremonies, as <hi>oyle, salt, ashes,</hi> on which they write the <hi>Al<g ref="char:EOLhyphen"/>phabet</hi> in <hi>Greeke,</hi> and <hi>Latine.</hi> They set up <hi>twelve crosses,</hi> and <hi>twelve lampes,</hi> burning, to sig<g ref="char:EOLhyphen"/>nifie the twelve Apostles preaching the crosse. They are given to it; <hi>let them a<g ref="char:EOLhyphen"/>lone,</hi> they will not doe other<g ref="char:EOLhyphen"/>wise. <note place="margin">Hos. 4.17. 1 Tim. 4.5.</note> But wee doe it with <hi>the word of God,</hi> &amp; <hi>prayers,</hi> de<g ref="char:EOLhyphen"/>cent ceremonies, to hold them for Gods uses for ever. Thus <hi>Constantine</hi> having fini<g ref="char:EOLhyphen"/>shed a goodly church, dedica<g ref="char:EOLhyphen"/>ted it with orations, sermons, prayers, praises, saith <hi>Euse<g ref="char:EOLhyphen"/>bius.</hi>
+            </p>
+            <p>And thus doe wee, <milestone type="tcpmilestone" unit="unspecified" n="2"/> that they may bee made publicke to prevent conventicles: <note place="margin">Why dedi<g ref="char:EOLhyphen"/>cated. see <hi>Hook. ec<g ref="char:EOLhyphen"/>cles. pol.</hi>
+               </note> and that they may bee thus yeel<g ref="char:EOLhyphen"/>ded up to Gods worship, to
+<pb n="18" facs="tcp:176928:14"/>keep off prophane bodies and soules, And though God doe not give such a sign of posses<g ref="char:EOLhyphen"/>sion now as in the time of the law, <note place="margin">Ex. 40.34</note>
+               <hi>(when a cloud covered the tent of the congregation, and the glory of the Lord filled the Ta<g ref="char:EOLhyphen"/>bernacle;</hi>
+               <note place="margin">1 Kin. 18.11</note>
+               <hi>and the priests could not stand to minister because of the cloud: for the glory of the Lord had filled the house of the Lord.</hi> And therefore, when <hi>Pompey</hi> saw a cloud in the ho<g ref="char:EOLhyphen"/>ly of holies, it grew to a per<g ref="char:EOLhyphen"/>verse judgment that the Jews were <hi>Nubicolae,</hi> worshippers of a cloud): though God (I say) do not thus take possessi<g ref="char:EOLhyphen"/>on of our churches, yet cer<g ref="char:EOLhyphen"/>tainely hee accepts of the ad<g ref="char:EOLhyphen"/>vancement of his worship by his owne rules of <hi>edifying, de<g ref="char:EOLhyphen"/>cency,</hi>
+               <note place="margin">1 Cor. 14.26.40.</note> and <hi>order.</hi> Thus chur<g ref="char:EOLhyphen"/>ches and chappells are conse<g ref="char:EOLhyphen"/>crated, and dedicated; there<g ref="char:EOLhyphen"/>fore despise them not.</p>
+            <pb n="19" facs="tcp:176928:14"/>
+            <p>Secondly, <note place="margin">2 Houses of prayer, and so of glorious presence.</note> our churches and chappells are the <hi>houses of prai<g ref="char:EOLhyphen"/>er,</hi> Though the sacraments and preaching of the word be there too; yet is it prayer that fits them, sanctifieth and seasoneth them unto us, with<g ref="char:EOLhyphen"/>out prayer, the word ordina<g ref="char:EOLhyphen"/>rily is not the word of life, nor the sacraments the seales of life, yee must knocke, if yee would have it opened, <note place="margin">Math. 7 7.</note>
+               <hi>ye must aske, if yee would have.</hi> Shall I say more? when Gods peo<g ref="char:EOLhyphen"/>ple are in them for worship, <hi>they are places of the best pre<g ref="char:EOLhyphen"/>sence.</hi> The <hi>Father, Sonne,</hi> and <hi>Holy Ghost</hi> are there by way of love, grace, communion for our blessed assistance. For though he <hi>dwell not in temples made with hands,</hi>
+               <note place="margin">Act 7.48</note> by way of <hi>confinement,</hi> yet doth hee by way of <hi>speciall favour</hi> amongst two or three that are gathe<g ref="char:EOLhyphen"/>red in his name: <note place="margin">Mat. 18.20</note> and there<g ref="char:EOLhyphen"/>fore
+<pb n="20" facs="tcp:176928:15"/>the publicke worship is called <hi>the face of God,</hi>
+               <note place="margin">Psal. 42.2.</note> yea, the angels are there at hand too, by way of service, <note place="margin">1 Cor. 11.10.</note> for <hi>the wo<g ref="char:EOLhyphen"/>man must have power on her head because of the Angels.</hi> They are therefore houses of prayer, and of glorious pre<g ref="char:EOLhyphen"/>sence, <hi>despise them not.</hi>
+            </p>
+            <p>Are all christians thinke you, <note place="margin">Applicati<g ref="char:EOLhyphen"/>on.</note> now without blame? Are they not covered with <hi>Corinthian</hi> guilt? <milestone type="tcpmilestone" unit="unspecified" n="1"/> Some care not for the reverent comlines of churches and chappels. <note place="margin">To them that care not for comlinesse of chur<g ref="char:EOLhyphen"/>ches.</note>
+               <hi>The profane</hi> man esteemes the church a prison, the ministe<g ref="char:EOLhyphen"/>ry a bil of inditement, penitent prayers but a devout tragedy, and graves and tombes the shadow of death: therefore hee cares not for them. The <hi>Politicians</hi> build for them<g ref="char:EOLhyphen"/>selves in state, <note place="margin">Ier. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.14 15.</note>
+               <hi>closing themselvs in cedar, cutting themselves windowes, and painting them
+<pb n="21" facs="tcp:176928:15"/>with vermilion;</hi>
+               <note place="margin">Am. 3 15. Am. 6.4.</note> yea <hi>houses of Ivory, with beds of Ivory:</hi> but a lighter cloake will serve <hi>Iupi<g ref="char:EOLhyphen"/>ter,</hi> a worse church will serve an assembly of saints by cal<g ref="char:EOLhyphen"/>ling. The <hi>covetous worldling</hi> eates thistles with the asse, and will serve God enough; if he may do it cheap enough, hee will bee thrifty even to God himselfe. <note place="margin">Mar. 10.21</note> But if hee heare of <hi>selling all,</hi> and giving to the poore, hee goes away sorrowing, yea, if hee heare of parting with some, to build a church, his devotion is at an hard lift, hee mootes <hi>Iudas</hi> his case, <hi>to what end is this waste?</hi>
+               <note place="margin">Math. 26.8</note> The <hi>contemner of devotion</hi> ca<g ref="char:EOLhyphen"/>reth not what place God hath among men, so hee have any. As <hi>Licinius</hi> in the dayes of <hi>Constantine</hi> (pretending a more wholesome aire) drew the people out of the city into the fields to serve God there, <hi>so plotting the ruine of churches,</hi>
+               <pb n="22" facs="tcp:176928:16"/>saith the historian: <note place="margin">Cogitans eversionē ecclesia<g ref="char:EOLhyphen"/>rum. Euseb.</note> so hee (provided hee may have li<g ref="char:EOLhyphen"/>berty enough, and not bee troubled with that which men call devotion) cares not if oates were sowed where churches stand, why comber they the ground? The <hi>scrupulous christian</hi> (fea<g ref="char:EOLhyphen"/>ring the superstition of chur<g ref="char:EOLhyphen"/>ches) cares not how low the streame runnes that way. <hi>Pa<g ref="char:EOLhyphen"/>ter noster</hi> built churches, but his <hi>our father</hi> shall ptill them down, or let them fall. O saith hee, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> they have beene abused to superstition and idolatry! therfore let not a stone lie up<g ref="char:EOLhyphen"/>on a stone unpulled downe, or let them fall.</p>
+            <p>But put the case it be so, <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> will nothing expiate their guilt but atheisme in their ruine? Originally, they were built to the honour of God, and now by good lawes they are retur<g ref="char:EOLhyphen"/>ned to their proper use, and
+<pb n="23" facs="tcp:176928:16"/>sanctified unto us, by the word of God and prayer. Were the <hi>Spartan</hi> lawes good, for the rooting out of all vines, because men made themselves drunke with the fruite of them? <note place="margin">August. Epist.</note> Saint <hi>Augustine</hi> tells such, that the scriptures have beene abused to make spells and amulets, and yet are they blessed to them that use them well: <note place="margin">Iohn 2.</note> and Christ imploy<g ref="char:EOLhyphen"/>ed the water-pots of Jewish superstition in the worke of his first miracle. When Saint <hi>Paul</hi> was to doe the worke of God, hee con<g ref="char:EOLhyphen"/>versed in <hi>Athens,</hi>
+               <note place="margin">Act. 17.16</note> dedica<g ref="char:EOLhyphen"/>ted to heathenish <hi>Minerva,</hi> and sayled in the shippe whose badge was <hi>Castor</hi> and <hi>Pollux.</hi>
+               <note place="margin">Act. 28.11</note>
+            </p>
+            <p>So may wee doe Gods businesse in those churches which have beene worse u<g ref="char:EOLhyphen"/>sed.
+<pb n="24" facs="tcp:176928:17"/>Yea, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label>
+               <note place="margin">Iohn 4.21</note> but (saith he) the time is come that wee must not worship God in <hi>Samaria,</hi>
+               <note place="margin">1 Tim. 2.8</note> nor <hi>Ierusalem,</hi> but pray with holy hands and hearts <hi>every where,</hi> there<g ref="char:EOLhyphen"/>fore what should wee doe with churches? <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> It is rrue, wee have more freedome since the partition wall be<g ref="char:EOLhyphen"/>twixt Jew and Gentile was pulled downe: but though <hi>all dayes are alike in them<g ref="char:EOLhyphen"/>selves,</hi>
+               <note place="margin">Rom. 14 5</note> yet, I hope, hee will have one day holier then another in use: so though all places are a like in them<g ref="char:EOLhyphen"/>selves, yet one place may bee holier then another in application, and use, for holy services. If this serve not the turne for the despi<g ref="char:EOLhyphen"/>sers of churches, let us for<g ref="char:EOLhyphen"/>get that there are any such a<g ref="char:EOLhyphen"/>mong CHRISTIANS, till wee see them judged,
+<pb n="25" facs="tcp:176928:17"/>and passe further.</p>
+            <p>Others come not to chur<g ref="char:EOLhyphen"/>ches and chappells with feare, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <note place="margin">To them that come to churches without feare.</note> and so despise them. They doe not thinke of their dedi<g ref="char:EOLhyphen"/>cation, nor of the fearefull presence of God and Angels, nor of the reverent <hi>Acts</hi> of worship: and therefore <hi>take not heede to their feete when they goe into the house of God.</hi>
+               <note place="margin">Eccles. 5.1</note> They forget Gods command to <hi>Moyses,</hi> when hee was to talke with GOD, <hi>put off thy shoes from thy feete.</hi>
+               <note place="margin">Ex. 3.5.</note> They forget GODS command by <hi>Moyses,</hi>
+               <note place="margin">Ex. 30.</note>
+               <hi>make a laver,</hi> to wash the priestes when they enter my house. They forget <hi>Davids</hi> exhor<g ref="char:EOLhyphen"/>tation, <hi>O come let us wor<g ref="char:EOLhyphen"/>ship and bow downe,</hi>
+               <note place="margin">Psal 95.6.</note>
+               <hi>let us kneele before the Lord our ma<g ref="char:EOLhyphen"/>ker:</hi> yea, and CHRISTS zeale too, who, whatsoever hee endured would not suffer
+<pb n="26" facs="tcp:176928:18"/>
+               <hi>the house of prayer</hi> to bee di<g ref="char:EOLhyphen"/>shonoured. <note place="margin">Iohn 2.</note> Hence is it that they come into churches and chappells, as into a play<g ref="char:EOLhyphen"/>house to see and to bee seene, to heare one act his part for two houres, and away, yea worse, as into an ale<g ref="char:EOLhyphen"/>house, to laugh, fleere, and talke.</p>
+            <p>Others againe, <milestone type="tcpmilestone" unit="unspecified" n="3"/> care not to despise them by any com<g ref="char:EOLhyphen"/>mon or sinnefull use. <note place="margin">To them that put them to common and sinfull uses.</note> As in our summer fields, the <hi>bee</hi> gathers hony, the <hi>sheep</hi> grasse, the <hi>hunter</hi> his game, but the <hi>storke</hi> peckes up some toade, or snake, to feede upon them. So they come not to picke up the foode of ANGELS, the heavenly <hi>Mannah,</hi> but some baser for some wicked lust of sinne to sleepe' upon, from the word and prayer abused. <hi>Will yee steale, murther, and
+<pb n="27" facs="tcp:176928:18"/>commit adultery,</hi>
+               <note place="margin">Ier. 7.9, 10.</note>
+               <hi>and sweare falsly, and come and stand before mee in this house which is called by my name?</hi> So will yee have gadding eyes, wandring thoughts, high lookes? and worse, will yee abuse the meanes of sal<g ref="char:EOLhyphen"/>vation to flatter your selves in sinne, and come into the church of God? <hi>will yee thus despise them?</hi>
+            </p>
+            <p>Though <hi>Israel</hi> play the harlot, yet let not <hi>Iudah</hi> sinne. Let others come and goe wirhout the communion of saints, yet let Saint <hi>Pauls</hi> wordes sinke into your soules, <note place="margin">How chur<g ref="char:EOLhyphen"/>ches ought not to bee despised.</note>
+               <hi>despise yee not the church of God. First,</hi> despise them not <hi>by base uncomelinesse,</hi> yee will build houses for the li<g ref="char:EOLhyphen"/>ving, and surely if they bee not founded in <hi>confidence</hi> to perpetuate your names; nor in <hi>unjustice</hi> as <hi>Ahab,</hi> to nigh
+<pb n="28" facs="tcp:176928:19"/>
+               <hi>Naboths</hi> vineyard for his good; nor in <hi>oppression,</hi> when the stone cries out of the wal, and the beame out of the tim<g ref="char:EOLhyphen"/>ber, <note place="margin">Hag. 1.</note>
+               <hi>bloods, bloods;</hi> nor for <hi>ostentation,</hi> but for use; it is not unlawfull both for neces<g ref="char:EOLhyphen"/>sity, pleasure, defence, and state: yet <hi>the house of God must not lye waste.</hi> Yee will build sepulchres for the dead: and surely if they bee not in pride and vaine-glorie; but if they bee to testifie our love to the dead, according to what they were alive; and to testifie our faith in the resur<g ref="char:EOLhyphen"/>rection of the dead: &amp; to pro<g ref="char:EOLhyphen"/>fite our selves by monitors of our mortality; It is not un<g ref="char:EOLhyphen"/>lawfull neither, yet the wit<g ref="char:EOLhyphen"/>nesse of our love to men <hi>(in the grave)</hi> must not be fairer then the witnesse of our love to God <hi>(in the whole Church).</hi> In all ages (when peace and
+<pb n="29" facs="tcp:176928:19"/>plenty gave liberty) Christi<g ref="char:EOLhyphen"/>ans have beene flowing in workes of charitie and pie<g ref="char:EOLhyphen"/>ty.</p>
+            <p>Heere might yee have seen work-houses for the sound, <note place="margin">Wester. Jac. Wel.</note> there hospitals for the sick: Heere almes-houses for the aged, there schooles for the children; Heere colledges for the children of the Prophets, there bride-wells for the idle and incorrigible: Heere chur<g ref="char:EOLhyphen"/>ches for parishes, there chap<g ref="char:EOLhyphen"/>pells for houses: and shall not this provoke your willing mindes? Is nothing left for you?</p>
+            <p>Behold, when <hi>Iehu</hi> came to <hi>Iezreel,</hi> and had executed vengeance upon <hi>Iezabel,</hi> hee said <hi>goe now and see this cursed woman, and bury her;</hi>
+               <note place="margin">2 Kin. 9.34</note>
+               <hi>for she is a kings daughter.</hi> I have done a work of justice, do ye a work of charity to such a person.
+<pb n="30" facs="tcp:176928:20"/>There is some little proporti<g ref="char:EOLhyphen"/>on betwixt her and this chap<g ref="char:EOLhyphen"/>pell: <note place="margin">Similitu<g ref="char:EOLhyphen"/>do non currit quatuor pedibus.</note>
+               <hi>for a similitude agrees not in every particular.</hi> It hath beene neglected since the first stone was laid: but now be<g ref="char:EOLhyphen"/>hold it is visited: for it was built as a daughter for the honour of the King of hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Goe on (right worthy chri<g ref="char:EOLhyphen"/>stians); and doe so to your owne churches and chappells too. Some monuments may make you infamous, as the building of <hi>Babel,</hi>
+               <note place="margin">Gen. 11. Iosh. 6. 1 King. 16 2 King. 23</note> the re<g ref="char:EOLhyphen"/>building of <hi>Iericho,</hi> the set<g ref="char:EOLhyphen"/>ting up of <hi>Calves,</hi> the ere<g ref="char:EOLhyphen"/>cting of the houses of the <hi>So<g ref="char:EOLhyphen"/>domites,</hi> the <hi>horses</hi> of the sun, the houses of <hi>abomination</hi> to <hi>Baal, Ashtoreth, Chemosh, Milchom,</hi> and the like. But this worke, and such as this is, shall leave a sweet savour be<g ref="char:EOLhyphen"/>hinde you, when you are
+<pb n="31" facs="tcp:176928:20"/>gone, as upon the <hi>Centurion, hee loved our nation,</hi>
+               <note place="margin">Luk 7 5.</note>
+               <hi>and hath built us a Synagogue.</hi> Yee have done worthily therefore in <hi>Ephrata,</hi> and made your selves famous in <hi>Bethlehem,</hi> that yee have not despised it by base uncomlinesse.</p>
+            <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> despise them not <hi>by irreverent carriage in them,</hi> who can come neere a church or chappell, and not be hum<g ref="char:EOLhyphen"/>bled to thinke how many praiers he hath made in them (or such like) which are justly turned into sinne? wee have sinned, and prayed, and pray<g ref="char:EOLhyphen"/>ed, and sinned, as if our pray<g ref="char:EOLhyphen"/>ers had beene a preparation to our future sinning. The very sight of the place doth, or may, justlie humble us for this. Who can come neere them, and not bee lifted up with such devout thoughts as this, O Lord heare us, heare
+<pb n="32" facs="tcp:176928:21"/>thy people that humbly call upon thy name heere. O meete with us in thine own ordinances, (when we meete heere) that we may be taught of God, and furthered in that way that leades to life▪ Who can enter into a church or chappell, and not thinke of the beautie of Gods house, and not crave that (as occasi<g ref="char:EOLhyphen"/>on serves) hee, and Gods people, may see Gods face there?</p>
+            <p>When <hi>Cornelius</hi> was in a roome of his house (it may be set apart, but for a time) hee said, <note place="margin">Act. 10.33.</note>
+               <hi>now we are all heere pre<g ref="char:EOLhyphen"/>sent before God:</hi> much more may wee in our churches and chappells set a part for e<g ref="char:EOLhyphen"/>ver.</p>
+            <p>I know but three things which can bee a hinderance and impediment unto us, in so pious a worke, and those
+<pb n="33" facs="tcp:176928:21"/>are, profit, pleasure, honour, the <hi>lust of the eies,</hi>
+               <note place="margin">1 Ioh. 2.</note> the <hi>lust of the flesh,</hi> and the <hi>pride of life.</hi> All these cannot give reasons weightie enough to conclude the despising of the church of God. As for <hi>profit,</hi>
+               <note place="margin">Math. 16.</note>
+               <hi>what will it profit ut to winne the whole world, if wee loose our soules?</hi> As for pleasure, <note place="margin">Eccles. 2.2</note>
+               <hi>I said to laugh<g ref="char:EOLhyphen"/>ter it is madde, and to mirth, what doth it?</hi> the sonnes of men are deceitfull upon the weights: they over-weigh the pleasures of sinne, and un<g ref="char:EOLhyphen"/>der-weigh the paine of mise<g ref="char:EOLhyphen"/>ry. As for honour, if wee seeke <hi>honour one of another, and seeke not the honour that com<g ref="char:EOLhyphen"/>meth of God onely,</hi>
+               <note place="margin">Ioh. 5.44.</note> God will tread downe our life upon the earth, <note place="margin">Psal. 7 5.</note> and <hi>lay our honour in the dust.</hi> But howsoever these prevaile with others, I am sure, that all these three are ingaged, heere not to despise
+<pb n="34" facs="tcp:176928:22"/>this church of God.</p>
+            <p>It is built and furnished with cost: profit therefore is engaged, and hath given way to the devout worship of God heere. It is built by a garden of pleasure, a parlour of plen<g ref="char:EOLhyphen"/>tie: pleasure therefore is en<g ref="char:EOLhyphen"/>gaged to give way to the de<g ref="char:EOLhyphen"/>vout worship of God. <hi>Iosephs tombe</hi> was in a garden, to put thoughts of mortality into his delights, and this chappell is in a garden, to be a monitor (in the midst of refreshments) to the way to immortalitie. It is garnished with the coate of armes below, looking up<g ref="char:EOLhyphen"/>ward: honour offers it selfe to bee serviceable to the de<g ref="char:EOLhyphen"/>vout worship of God. There<g ref="char:EOLhyphen"/>fore as I say, in generall, hus<g ref="char:EOLhyphen"/>bands teach your wives, pa<g ref="char:EOLhyphen"/>rents teach your children, ma<g ref="char:EOLhyphen"/>sters teach your servants, and all Christians provoke one
+<pb n="35" facs="tcp:176928:22"/>another not to despise the churches of God: so in speciall in this place as opportunitie is offered. Oh worship God in the beauty of holinesse! <note place="margin">Psal 93.5.</note>
+               <hi>for ho<g ref="char:EOLhyphen"/>linesse becomes thy house for ever.</hi>
+            </p>
+            <p>Thus shall you bring ho<g ref="char:EOLhyphen"/>nour to your God, ornament to your Gospell, edification to your neighbours, and com<g ref="char:EOLhyphen"/>fort to your owne soules in the day of the <hi>Lord Iesus,</hi> to whom with the Father, and the Holy Ghost, bee all praise, power, and Glory, now and for ever.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
